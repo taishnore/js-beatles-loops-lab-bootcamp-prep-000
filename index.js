@@ -18,9 +18,14 @@ function johnLennonFacts(facts) {
   return newArray
 }
 
+
 function iLoveTheBeatles(number) {
   var emptyArray = [];
-  while (number < 15)
+  do {
+    push.emptyArray("I love the Beatles!");
+    number++;
+  }
+  while (number < 15);
+  return emptyArray
 }
-
 
